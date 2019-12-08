@@ -1,4 +1,4 @@
-# mute-project-archive
+# Mute Project Archive
 
 In reverse chronological orders.
 
