@@ -1,12 +1,12 @@
 # Mute Project Archive
 
-https://mute-publishing.github.io/mute-project-archive/.
+[https://mute-publishing.github.io/mute-project-archive/](https://mute-publishing.github.io/mute-project-archive/)
 
 In reverse chronological orders.
 
 Initially this will be a simple list and then once listing is substantially completed it can then be developed further as an archive.
 
-Add items using GitHub and @mrchristian will add an items a day >6.12.2019. Fork me https://github.com/Mute-Publishing/mute-project-archive/ or request to be added as contributor. DM @mrchristian99 on Twitter.
+Add items using GitHub and @mrchristian will add an items a day >6.12.2019. [Fork me](https://github.com/Mute-Publishing/mute-project-archive/) or request to be added as contributor. DM @mrchristian99 on Twitter.
 
 Format: name; date; type; category; description. (;) as divider so don't use in text unless as divider. Number at start ( 1.) generates an ordered list in Markdown.
 
